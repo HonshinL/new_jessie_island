@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"a51cb1d570df899e","x":-20,"y":-300,"width":400,"height":400,"type":"file","file":"New Jessie.md"},
-		{"id":"5b067570811f80c7","x":-420,"y":-100,"width":250,"height":60,"type":"text","text":"Jessie"}
-	],
-	"edges":[
-		{"id":"bdb8cf1dfe1bd9ba","fromNode":"5b067570811f80c7","fromSide":"right","toNode":"a51cb1d570df899e","toSide":"left"}
-	]
-}
